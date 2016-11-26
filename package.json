@@ -1,0 +1,23 @@
+{
+  "name": "blognode",
+  "version": "1.0.0",
+  "description": "Blog made by grenouille and zneel",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Grenouille974/BlogNode.git"
+  },
+  "keywords": [
+    "blog",
+    "node"
+  ],
+  "author": "grenouille974",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Grenouille974/BlogNode/issues"
+  },
+  "homepage": "https://github.com/Grenouille974/BlogNode#readme"
+}
